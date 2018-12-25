@@ -1,7 +1,7 @@
 {
   "main.css": "/Internship/static/css/main.4a46e885.chunk.css",
-  "main.js": "/Internship/static/js/main.f209eecb.chunk.js",
-  "main.js.map": "/Internship/static/js/main.f209eecb.chunk.js.map",
+  "main.js": "/Internship/static/js/main.daf0579f.chunk.js",
+  "main.js.map": "/Internship/static/js/main.daf0579f.chunk.js.map",
   "static/css/1.5ed6e849.chunk.css": "/Internship/static/css/1.5ed6e849.chunk.css",
   "static/js/1.baab5d85.chunk.js": "/Internship/static/js/1.baab5d85.chunk.js",
   "static/js/1.baab5d85.chunk.js.map": "/Internship/static/js/1.baab5d85.chunk.js.map",
@@ -11,9 +11,9 @@
   "static/media/LukeLin.JPG": "/Internship/static/media/LukeLin.bb8c73c0.JPG",
   "static/media/BGImg.jpg": "/Internship/static/media/BGImg.5b4b98c6.jpg",
   "static/media/Home2.jpg": "/Internship/static/media/Home2.ff9f48cb.jpg",
-  "static/css/1.5ed6e849.chunk.css.map": "/Internship/static/css/1.5ed6e849.chunk.css.map",
   "static/css/main.4a46e885.chunk.css.map": "/Internship/static/css/main.4a46e885.chunk.css.map",
+  "static/css/1.5ed6e849.chunk.css.map": "/Internship/static/css/1.5ed6e849.chunk.css.map",
   "index.html": "/Internship/index.html",
-  "precache-manifest.b619a19103d15769ccf3cd73a3f6bd64.js": "/Internship/precache-manifest.b619a19103d15769ccf3cd73a3f6bd64.js",
+  "precache-manifest.62f7064f6162acf8b1b7583c35d27b8d.js": "/Internship/precache-manifest.62f7064f6162acf8b1b7583c35d27b8d.js",
   "service-worker.js": "/Internship/service-worker.js"
 }
